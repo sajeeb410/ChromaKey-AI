@@ -1,0 +1,5 @@
+{
+  "name": "ChromaKey AI",
+  "description": "Instantly change photo backgrounds using Gemini 2.5 Flash Image. Upload a photo, pick a color, and transform your image with AI precision.",
+  "requestFramePermissions": []
+}
